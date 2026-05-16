@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-150523-wqg0",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
+      ],
+      "dateStart": "2026-05-16T20:05:23.000Z",
+      "dateEnd": "2026-05-16T20:44:20.000Z",
+      "dateLabel": "5/16/2026, 3:05:23 PM - 5/16/2026, 3:44:20 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260516-150523-wqg0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260516-114151-sl8v",
       "title": "Rose Of Aeons",
       "commanders": [
