@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-114151-sl8v",
+      "title": "Rose Of Aeons",
+      "commanders": [
+        "Rose Of Aeons"
+      ],
+      "dateStart": "2026-05-16T16:41:51.000Z",
+      "dateEnd": "2026-05-16T16:47:54.000Z",
+      "dateLabel": "5/16/2026, 11:41:51 AM - 5/16/2026, 11:47:54 AM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260516-114151-sl8v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260502-175926-kgey",
       "title": "Its A Fake",
       "commanders": [
