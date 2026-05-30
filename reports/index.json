@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-141230-afff",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "dateStart": "2026-05-30T19:12:30.000Z",
+      "dateEnd": "2026-05-30T19:46:47.000Z",
+      "dateLabel": "5/30/2026, 2:12:30 PM - 5/30/2026, 2:46:47 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260530-141230-afff",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260516-150523-zhnt",
       "title": "Rojo Drakkon",
       "commanders": [
