@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-194344-q7gt",
+      "title": "Adora Pell Gearhart",
+      "commanders": [
+        "Adora Pell Gearhart"
+      ],
+      "dateStart": "2026-06-17T00:43:44.000Z",
+      "dateEnd": "2026-06-17T00:50:15.000Z",
+      "dateLabel": "6/16/2026, 7:43:44 PM - 6/16/2026, 7:50:15 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260616-194344-q7gt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260606-190356-odtx",
       "title": "Its A Fake",
       "commanders": [
