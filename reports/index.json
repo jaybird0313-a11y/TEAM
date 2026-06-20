@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-140317-pti2",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
+      ],
+      "dateStart": "2026-06-20T19:03:17.000Z",
+      "dateEnd": "2026-06-20T19:46:38.000Z",
+      "dateLabel": "6/20/2026, 2:03:17 PM - 6/20/2026, 2:46:38 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260620-140317-pti2",
+      "summary": {
+        "borderlandsPct": 0.9791666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 31,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260619-222302-xm51",
       "title": "Jade Hunteress",
       "commanders": [
