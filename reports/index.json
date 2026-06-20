@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260619-222302-xm51",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "dateStart": "2026-06-20T03:23:02.000Z",
+      "dateEnd": "2026-06-20T04:12:48.000Z",
+      "dateLabel": "6/19/2026, 10:23:02 PM - 6/19/2026, 11:12:48 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260619-222302-xm51",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260619-222826-y4k4",
       "title": "Jade Hunteress",
       "commanders": [
