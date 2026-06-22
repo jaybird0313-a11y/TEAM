@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-170824-dgtc",
+      "title": "Jade Hunteress, Rose Of Aeons",
+      "commanders": [
+        "Jade Hunteress",
+        "Rose Of Aeons"
+      ],
+      "dateStart": "2026-06-21T22:08:24.000Z",
+      "dateEnd": "2026-06-21T23:51:11.000Z",
+      "dateLabel": "6/21/2026, 5:08:24 PM - 6/21/2026, 6:51:11 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260621-170824-dgtc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260620-140317-pti2",
       "title": "Rojo Drakkon",
       "commanders": [
