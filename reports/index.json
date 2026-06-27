@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-211510-tmeh",
+      "title": "Legendary Jim",
+      "commanders": [
+        "Legendary Jim"
+      ],
+      "dateStart": "2026-06-27T02:15:10.000Z",
+      "dateEnd": "2026-06-27T02:49:24.000Z",
+      "dateLabel": "6/26/2026, 9:15:10 PM - 6/26/2026, 9:49:24 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260626-211510-tmeh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 39,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260621-170824-dgtc",
       "title": "Jade Hunteress, Rose Of Aeons",
       "commanders": [
