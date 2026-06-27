@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-140005-szvc",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "dateStart": "2026-06-27T19:00:05.000Z",
+      "dateEnd": "2026-06-27T19:43:50.000Z",
+      "dateLabel": "6/27/2026, 2:00:05 PM - 6/27/2026, 2:43:50 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260627-140005-szvc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 4
+      }
+    },
+    {
       "id": "20260626-225806-wxoq",
       "title": "Bachunga Xo, Legendary Jim",
       "commanders": [
