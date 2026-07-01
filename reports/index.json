@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260630-193532-n88l",
+      "title": "Shae Pell Shimmer",
+      "commanders": [
+        "Shae Pell Shimmer"
+      ],
+      "dateStart": "2026-07-01T00:35:32.000Z",
+      "dateEnd": "2026-07-01T01:24:09.000Z",
+      "dateLabel": "6/30/2026, 7:35:32 PM - 6/30/2026, 8:24:09 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260630-193532-n88l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 39,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260627-140005-szvc",
       "title": "Jade Hunteress",
       "commanders": [
