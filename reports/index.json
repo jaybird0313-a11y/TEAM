@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-180708-lxrw",
+      "title": "Legendary Jim, Rojo Drakkon",
+      "commanders": [
+        "Legendary Jim",
+        "Rojo Drakkon"
+      ],
+      "dateStart": "2026-07-08T23:07:08.000Z",
+      "dateEnd": "2026-07-09T03:00:07.000Z",
+      "dateLabel": "7/8/2026, 6:07:08 PM - 7/8/2026, 10:00:07 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260708-180708-lxrw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260707-192206-jusm",
       "title": "Pell Merigold",
       "commanders": [
