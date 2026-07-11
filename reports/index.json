@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-211434-ifds",
+      "title": "Rose Of Aeons",
+      "commanders": [
+        "Rose Of Aeons"
+      ],
+      "dateStart": "2026-07-11T02:14:34.000Z",
+      "dateEnd": "2026-07-11T02:45:49.000Z",
+      "dateLabel": "7/10/2026, 9:14:34 PM - 7/10/2026, 9:45:49 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260710-211434-ifds",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260708-180708-lxrw",
       "title": "Legendary Jim, Rojo Drakkon",
       "commanders": [
