@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-190746-jo34",
+      "title": "Pell Merigold",
+      "commanders": [
+        "Pell Merigold"
+      ],
+      "dateStart": "2026-07-15T00:07:46.000Z",
+      "dateEnd": "2026-07-15T01:51:25.000Z",
+      "dateLabel": "7/14/2026, 7:07:46 PM - 7/14/2026, 8:51:25 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260714-190746-jo34",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260711-140653-eclg",
       "title": "Jade Hunteress",
       "commanders": [
