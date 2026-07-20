@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-182307-uvyj",
+      "title": "Qwerttze",
+      "commanders": [
+        "Qwerttze"
+      ],
+      "dateStart": "2026-07-19T23:23:07.000Z",
+      "dateEnd": "2026-07-20T00:04:58.000Z",
+      "dateLabel": "7/19/2026, 6:23:07 PM - 7/19/2026, 7:04:58 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260719-182307-uvyj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 41,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260719-182307-df2t",
       "title": "Qwerttze",
       "commanders": [
