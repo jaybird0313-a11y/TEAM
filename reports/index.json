@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-211753-gph2",
+      "title": "Bachunga Xo",
+      "commanders": [
+        "Bachunga Xo"
+      ],
+      "dateStart": "2026-07-23T02:17:53.000Z",
+      "dateEnd": "2026-07-23T02:55:34.000Z",
+      "dateLabel": "7/22/2026, 9:17:53 PM - 7/22/2026, 9:55:34 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260722-211753-gph2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 68,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260721-180920-6aic",
       "title": "Legendary Jim",
       "commanders": [
