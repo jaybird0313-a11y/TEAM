@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-181316-7vfw",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "dateStart": "2026-07-29T23:13:16.000Z",
+      "dateEnd": "2026-07-30T01:33:29.000Z",
+      "dateLabel": "7/29/2026, 6:13:16 PM - 7/29/2026, 8:33:29 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260729-181316-7vfw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260726-171039-bpkr",
       "title": "Jade Hunteress, Rose Of Aeons",
       "commanders": [
