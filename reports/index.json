@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-194404-3vlj",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-07T00:44:04.000Z",
+      "dateEnd": "2026-08-07T01:12:45.000Z",
+      "dateLabel": "8/6/2026, 7:44:04 PM - 8/6/2026, 8:12:45 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260806-194404-3vlj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260802-180346-t5dr",
       "title": "Qwerttze",
       "commanders": [
