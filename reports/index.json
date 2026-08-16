@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-183925-fag1",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-15T23:39:25.000Z",
+      "dateEnd": "2026-08-16T00:44:51.000Z",
+      "dateLabel": "8/15/2026, 6:39:25 PM - 8/15/2026, 7:44:51 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260815-183925-fag1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260814-224623-6ru3",
       "title": "Mystic Popstar",
       "commanders": [
