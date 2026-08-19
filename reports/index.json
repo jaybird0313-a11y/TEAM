@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-203533-6okt",
+      "title": "Kätta, Rylos Pell Ironhide",
+      "commanders": [
+        "Kätta",
+        "Rylos Pell Ironhide"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-19T01:35:33.000Z",
+      "dateEnd": "2026-08-19T02:18:18.376Z",
+      "dateLabel": "8/18/2026, 8:35:33 PM - 8/18/2026, 9:18:18 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260818-203533-6okt",
+      "summary": {
+        "borderlandsPct": 0.2647058823529412,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260817-190544-9b8a",
       "title": "Sharpshooter Rin",
       "commanders": [
