@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260821-231943-7jjx",
+      "title": "Legendary Jim",
+      "commanders": [
+        "Legendary Jim"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-22T04:19:43.000Z",
+      "dateEnd": "2026-08-22T05:05:42.203Z",
+      "dateLabel": "8/21/2026, 11:19:43 PM - 8/22/2026, 12:05:42 AM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260821-231943-7jjx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260821-215401-y4kx",
       "title": "Jade Hunteress",
       "commanders": [
