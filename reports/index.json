@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-192837-k59l",
+      "title": "Siris Stormwolf",
+      "commanders": [
+        "Siris Stormwolf"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-06T00:28:37.000Z",
+      "dateEnd": "2026-09-06T01:10:42.996Z",
+      "dateLabel": "9/5/2026, 7:28:37 PM - 9/5/2026, 8:10:42 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260905-192837-k59l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260905-192837-3ftg",
       "title": "Siris Stormwolf",
       "commanders": [
