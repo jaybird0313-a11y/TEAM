@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-190652-uf2l",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-07T00:06:52.000Z",
+      "dateEnd": "2026-09-07T00:54:23.674Z",
+      "dateLabel": "9/6/2026, 7:06:52 PM - 9/6/2026, 7:54:23 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260906-190652-uf2l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 33,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260905-192837-k59l",
       "title": "Siris Stormwolf",
       "commanders": [
