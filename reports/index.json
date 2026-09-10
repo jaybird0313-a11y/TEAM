@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-195933-nkd2",
+      "title": "Xyla The Black",
+      "commanders": [
+        "Xyla The Black"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-10T00:59:33.000Z",
+      "dateEnd": "2026-09-10T02:09:48.203Z",
+      "dateLabel": "9/9/2026, 7:59:33 PM - 9/9/2026, 9:09:48 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260909-195933-nkd2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260908-195450-vd4t",
       "title": "Rylos Pell Ironhide",
       "commanders": [
