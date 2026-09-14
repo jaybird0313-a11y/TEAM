@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-200058-vv0m",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-14T01:00:58.000Z",
+      "dateEnd": "2026-09-14T01:59:02.415Z",
+      "dateLabel": "9/13/2026, 8:00:58 PM - 9/13/2026, 8:59:02 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260913-200058-vv0m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260912-195538-18yp",
       "title": "Jade Hunteress",
       "commanders": [
