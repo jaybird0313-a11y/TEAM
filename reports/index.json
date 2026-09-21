@@ -1,1651 +1,1694 @@
-[
-  {
-    "id": "20260920-175958-kmy8",
-    "title": "Rose Of Aeons",
-    "commanders": [
-      "Rose Of Aeons"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260920-170330-h2mu",
+      "title": "Rose Of Aeons",
+      "commanders": [
+        "Rose Of Aeons"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-20T22:03:30.000Z",
+      "dateEnd": "2026-09-20T22:54:25.273Z",
+      "dateLabel": "9/20/2026, 5:03:30 PM - 9/20/2026, 5:54:25 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260920-170330-h2mu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 7
+      }
     },
-    "dateStart": "2026-09-20T22:59:58.000Z",
-    "dateEnd": "2026-09-20T23:58:11.271Z",
-    "dateLabel": "9/20/2026, 5:59:58 PM - 9/20/2026, 6:58:11 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260920-175958-kmy8",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 23,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260920-175958-kmy8",
+      "title": "Rose Of Aeons",
+      "commanders": [
+        "Rose Of Aeons"
       ],
-      "avgSquadSize": 16,
-      "avgEnemySize": 8
-    }
-  },
-  {
-    "id": "20260919-183553-v3zd",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-20T22:59:58.000Z",
+      "dateEnd": "2026-09-20T23:58:11.271Z",
+      "dateLabel": "9/20/2026, 5:59:58 PM - 9/20/2026, 6:58:11 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260920-175958-kmy8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 8
+      }
     },
-    "dateStart": "2026-09-19T23:35:53.000Z",
-    "dateEnd": "2026-09-20T01:25:02.578Z",
-    "dateLabel": "9/19/2026, 6:35:53 PM - 9/19/2026, 8:25:02 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260919-183553-v3zd",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 11,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260919-183553-v3zd",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260919-183553-i002",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-19T23:35:53.000Z",
+      "dateEnd": "2026-09-20T01:25:02.578Z",
+      "dateLabel": "9/19/2026, 6:35:53 PM - 9/19/2026, 8:25:02 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260919-183553-v3zd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
     },
-    "dateStart": "2026-09-19T23:35:53.000Z",
-    "dateEnd": "2026-09-20T01:25:02.578Z",
-    "dateLabel": "9/19/2026, 6:35:53 PM - 9/19/2026, 8:25:02 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260919-183553-i002",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 11,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260919-183553-i002",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260918-221615-12ka",
-    "title": "Legendary Jim",
-    "commanders": [
-      "Legendary Jim"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-19T23:35:53.000Z",
+      "dateEnd": "2026-09-20T01:25:02.578Z",
+      "dateLabel": "9/19/2026, 6:35:53 PM - 9/19/2026, 8:25:02 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260919-183553-i002",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
     },
-    "dateStart": "2026-09-19T03:16:15.000Z",
-    "dateEnd": "2026-09-19T04:08:44.203Z",
-    "dateLabel": "9/18/2026, 10:16:15 PM - 9/18/2026, 11:08:44 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260918-221615-12ka",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 32,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260918-221615-12ka",
+      "title": "Legendary Jim",
+      "commanders": [
+        "Legendary Jim"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260913-200058-vv0m",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-19T03:16:15.000Z",
+      "dateEnd": "2026-09-19T04:08:44.203Z",
+      "dateLabel": "9/18/2026, 10:16:15 PM - 9/18/2026, 11:08:44 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260918-221615-12ka",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 20
+      }
     },
-    "dateStart": "2026-09-14T01:00:58.000Z",
-    "dateEnd": "2026-09-14T01:59:02.415Z",
-    "dateLabel": "9/13/2026, 8:00:58 PM - 9/13/2026, 8:59:02 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260913-200058-vv0m",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 33,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 20,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260913-200058-vv0m",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260912-195538-18yp",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-14T01:00:58.000Z",
+      "dateEnd": "2026-09-14T01:59:02.415Z",
+      "dateLabel": "9/13/2026, 8:00:58 PM - 9/13/2026, 8:59:02 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260913-200058-vv0m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 9
+      }
     },
-    "dateStart": "2026-09-13T00:55:38.000Z",
-    "dateEnd": "2026-09-13T01:53:36.909Z",
-    "dateLabel": "9/12/2026, 7:55:38 PM - 9/12/2026, 8:53:36 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260912-195538-18yp",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 47,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260912-195538-18yp",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260911-221048-52x1",
-    "title": "Rojo Drakkon",
-    "commanders": [
-      "Rojo Drakkon"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-13T00:55:38.000Z",
+      "dateEnd": "2026-09-13T01:53:36.909Z",
+      "dateLabel": "9/12/2026, 7:55:38 PM - 9/12/2026, 8:53:36 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260912-195538-18yp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 47,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 15
+      }
     },
-    "dateStart": "2026-09-12T03:10:48.000Z",
-    "dateEnd": "2026-09-12T03:48:16.275Z",
-    "dateLabel": "9/11/2026, 10:10:48 PM - 9/11/2026, 10:48:16 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260911-221048-52x1",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 25,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260911-221048-52x1",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260910-203400-gt6u",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-12T03:10:48.000Z",
+      "dateEnd": "2026-09-12T03:48:16.275Z",
+      "dateLabel": "9/11/2026, 10:10:48 PM - 9/11/2026, 10:48:16 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260911-221048-52x1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 35
+      }
     },
-    "dateStart": "2026-09-11T01:34:00.000Z",
-    "dateEnd": "2026-09-11T02:24:29.522Z",
-    "dateLabel": "9/10/2026, 8:34:00 PM - 9/10/2026, 9:24:29 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260910-203400-gt6u",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 37,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260910-203400-gt6u",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 7,
-      "avgEnemySize": 11
-    }
-  },
-  {
-    "id": "20260909-195933-nkd2",
-    "title": "Xyla The Black",
-    "commanders": [
-      "Xyla The Black"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-11T01:34:00.000Z",
+      "dateEnd": "2026-09-11T02:24:29.522Z",
+      "dateLabel": "9/10/2026, 8:34:00 PM - 9/10/2026, 9:24:29 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260910-203400-gt6u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 37,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 11
+      }
     },
-    "dateStart": "2026-09-10T00:59:33.000Z",
-    "dateEnd": "2026-09-10T02:09:48.203Z",
-    "dateLabel": "9/9/2026, 7:59:33 PM - 9/9/2026, 9:09:48 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260909-195933-nkd2",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 26,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260909-195933-nkd2",
+      "title": "Xyla The Black",
+      "commanders": [
+        "Xyla The Black"
       ],
-      "avgSquadSize": 8,
-      "avgEnemySize": 10
-    }
-  },
-  {
-    "id": "20260908-195450-vd4t",
-    "title": "Rylos Pell Ironhide",
-    "commanders": [
-      "Rylos Pell Ironhide"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-10T00:59:33.000Z",
+      "dateEnd": "2026-09-10T02:09:48.203Z",
+      "dateLabel": "9/9/2026, 7:59:33 PM - 9/9/2026, 9:09:48 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260909-195933-nkd2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 10
+      }
     },
-    "dateStart": "2026-09-09T00:54:50.000Z",
-    "dateEnd": "2026-09-09T01:57:35.738Z",
-    "dateLabel": "9/8/2026, 7:54:50 PM - 9/8/2026, 8:57:35 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260908-195450-vd4t",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 22,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 12,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260908-195450-vd4t",
+      "title": "Rylos Pell Ironhide",
+      "commanders": [
+        "Rylos Pell Ironhide"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 10
-    }
-  },
-  {
-    "id": "20260906-190652-uf2l",
-    "title": "Rojo Drakkon",
-    "commanders": [
-      "Rojo Drakkon"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-09T00:54:50.000Z",
+      "dateEnd": "2026-09-09T01:57:35.738Z",
+      "dateLabel": "9/8/2026, 7:54:50 PM - 9/8/2026, 8:57:35 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260908-195450-vd4t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 10
+      }
     },
-    "dateStart": "2026-09-07T00:06:52.000Z",
-    "dateEnd": "2026-09-07T00:54:23.674Z",
-    "dateLabel": "9/6/2026, 7:06:52 PM - 9/6/2026, 7:54:23 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260906-190652-uf2l",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 33,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 24,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260906-190652-uf2l",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
       ],
-      "avgSquadSize": 7,
-      "avgEnemySize": 10
-    }
-  },
-  {
-    "id": "20260905-192837-k59l",
-    "title": "Siris Stormwolf",
-    "commanders": [
-      "Siris Stormwolf"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-07T00:06:52.000Z",
+      "dateEnd": "2026-09-07T00:54:23.674Z",
+      "dateLabel": "9/6/2026, 7:06:52 PM - 9/6/2026, 7:54:23 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260906-190652-uf2l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 33,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 10
+      }
     },
-    "dateStart": "2026-09-06T00:28:37.000Z",
-    "dateEnd": "2026-09-06T01:10:42.996Z",
-    "dateLabel": "9/5/2026, 7:28:37 PM - 9/5/2026, 8:10:42 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260905-192837-k59l",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 17,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 16,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 13,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260905-192837-k59l",
+      "title": "Siris Stormwolf",
+      "commanders": [
+        "Siris Stormwolf"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260905-192837-3ftg",
-    "title": "Siris Stormwolf",
-    "commanders": [
-      "Siris Stormwolf"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-06T00:28:37.000Z",
+      "dateEnd": "2026-09-06T01:10:42.996Z",
+      "dateLabel": "9/5/2026, 7:28:37 PM - 9/5/2026, 8:10:42 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260905-192837-k59l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 15
+      }
     },
-    "dateStart": "2026-09-06T00:28:37.000Z",
-    "dateEnd": "2026-09-06T01:10:42.996Z",
-    "dateLabel": "9/5/2026, 7:28:37 PM - 9/5/2026, 8:10:42 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260905-192837-3ftg",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 17,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 16,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 13,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260905-192837-3ftg",
+      "title": "Siris Stormwolf",
+      "commanders": [
+        "Siris Stormwolf"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260904-220814-ad72",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-06T00:28:37.000Z",
+      "dateEnd": "2026-09-06T01:10:42.996Z",
+      "dateLabel": "9/5/2026, 7:28:37 PM - 9/5/2026, 8:10:42 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260905-192837-3ftg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 15
+      }
     },
-    "dateStart": "2026-09-05T03:08:14.000Z",
-    "dateEnd": "2026-09-05T04:14:43.357Z",
-    "dateLabel": "9/4/2026, 10:08:14 PM - 9/4/2026, 11:14:43 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260904-220814-ad72",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 22,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260904-220814-ad72",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260831-194415-bwp6",
-    "title": "Mystic Hotsauce",
-    "commanders": [
-      "Mystic Hotsauce"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-05T03:08:14.000Z",
+      "dateEnd": "2026-09-05T04:14:43.357Z",
+      "dateLabel": "9/4/2026, 10:08:14 PM - 9/4/2026, 11:14:43 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260904-220814-ad72",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 19
+      }
     },
-    "dateStart": "2026-09-01T00:44:15.000Z",
-    "dateEnd": "2026-09-01T01:13:54.536Z",
-    "dateLabel": "8/31/2026, 7:44:15 PM - 8/31/2026, 8:13:54 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260831-194415-bwp6",
-    "summary": {
-      "borderlandsPct": 0.5370370370370371,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 28,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 25,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260831-194415-bwp6",
+      "title": "Mystic Hotsauce",
+      "commanders": [
+        "Mystic Hotsauce"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 10
-    }
-  },
-  {
-    "id": "20260830-184626-gw19",
-    "title": "Mystic Hotsauce",
-    "commanders": [
-      "Mystic Hotsauce"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-01T00:44:15.000Z",
+      "dateEnd": "2026-09-01T01:13:54.536Z",
+      "dateLabel": "8/31/2026, 7:44:15 PM - 8/31/2026, 8:13:54 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260831-194415-bwp6",
+      "summary": {
+        "borderlandsPct": 0.5370370370370371,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 10
+      }
     },
-    "dateStart": "2026-08-30T23:46:26.000Z",
-    "dateEnd": "2026-08-31T00:28:46.858Z",
-    "dateLabel": "8/30/2026, 6:46:26 PM - 8/30/2026, 7:28:46 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260830-184626-gw19",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 12,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260830-184626-gw19",
+      "title": "Mystic Hotsauce",
+      "commanders": [
+        "Mystic Hotsauce"
       ],
-      "avgSquadSize": 16,
-      "avgEnemySize": 11
-    }
-  },
-  {
-    "id": "20260829-190314-9mgq",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-30T23:46:26.000Z",
+      "dateEnd": "2026-08-31T00:28:46.858Z",
+      "dateLabel": "8/30/2026, 6:46:26 PM - 8/30/2026, 7:28:46 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260830-184626-gw19",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 11
+      }
     },
-    "dateStart": "2026-08-30T00:03:14.000Z",
-    "dateEnd": "2026-08-30T00:34:37.194Z",
-    "dateLabel": "8/29/2026, 7:03:14 PM - 8/29/2026, 7:34:37 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260829-190314-9mgq",
-    "summary": {
-      "borderlandsPct": 0.8163265306122449,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 34,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 9,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 5,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260829-190314-9mgq",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 11
-    }
-  },
-  {
-    "id": "20260828-223228-ufmq",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-30T00:03:14.000Z",
+      "dateEnd": "2026-08-30T00:34:37.194Z",
+      "dateLabel": "8/29/2026, 7:03:14 PM - 8/29/2026, 7:34:37 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260829-190314-9mgq",
+      "summary": {
+        "borderlandsPct": 0.8163265306122449,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 11
+      }
     },
-    "dateStart": "2026-08-29T03:32:28.000Z",
-    "dateEnd": "2026-08-29T04:44:16.890Z",
-    "dateLabel": "8/28/2026, 10:32:28 PM - 8/28/2026, 11:44:16 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260828-223228-ufmq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 35,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260828-223228-ufmq",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260822-180114-ppom",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-29T03:32:28.000Z",
+      "dateEnd": "2026-08-29T04:44:16.890Z",
+      "dateLabel": "8/28/2026, 10:32:28 PM - 8/28/2026, 11:44:16 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260828-223228-ufmq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 23
+      }
     },
-    "dateStart": "2026-08-22T23:01:14.000Z",
-    "dateEnd": "2026-08-22T23:41:41.982Z",
-    "dateLabel": "8/22/2026, 6:01:14 PM - 8/22/2026, 6:41:41 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260822-180114-ppom",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 27,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 2,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260822-180114-ppom",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 14,
-      "avgEnemySize": 12
-    }
-  },
-  {
-    "id": "20260821-231943-7jjx",
-    "title": "Legendary Jim",
-    "commanders": [
-      "Legendary Jim"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-22T23:01:14.000Z",
+      "dateEnd": "2026-08-22T23:41:41.982Z",
+      "dateLabel": "8/22/2026, 6:01:14 PM - 8/22/2026, 6:41:41 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260822-180114-ppom",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 12
+      }
     },
-    "dateStart": "2026-08-22T04:19:43.000Z",
-    "dateEnd": "2026-08-22T05:05:42.203Z",
-    "dateLabel": "8/21/2026, 11:19:43 PM - 8/22/2026, 12:05:42 AM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260821-231943-7jjx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 8,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260821-231943-7jjx",
+      "title": "Legendary Jim",
+      "commanders": [
+        "Legendary Jim"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 8
-    }
-  },
-  {
-    "id": "20260821-215401-y4kx",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-22T04:19:43.000Z",
+      "dateEnd": "2026-08-22T05:05:42.203Z",
+      "dateLabel": "8/21/2026, 11:19:43 PM - 8/22/2026, 12:05:42 AM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260821-231943-7jjx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 8
+      }
     },
-    "dateStart": "2026-08-22T02:54:01.000Z",
-    "dateEnd": "2026-08-22T03:58:08.628Z",
-    "dateLabel": "8/21/2026, 9:54:01 PM - 8/21/2026, 10:58:08 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260821-215401-y4kx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 23,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260821-215401-y4kx",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 27
-    }
-  },
-  {
-    "id": "20260819-202420-da9t",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-22T02:54:01.000Z",
+      "dateEnd": "2026-08-22T03:58:08.628Z",
+      "dateLabel": "8/21/2026, 9:54:01 PM - 8/21/2026, 10:58:08 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260821-215401-y4kx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 27
+      }
     },
-    "dateStart": "2026-08-20T01:24:20.000Z",
-    "dateEnd": "2026-08-20T04:06:45.158Z",
-    "dateLabel": "8/19/2026, 8:24:20 PM - 8/19/2026, 11:06:45 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260819-202420-da9t",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 35,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260819-202420-da9t",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 8,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260819-202420-anyc",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-20T01:24:20.000Z",
+      "dateEnd": "2026-08-20T04:06:45.158Z",
+      "dateLabel": "8/19/2026, 8:24:20 PM - 8/19/2026, 11:06:45 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260819-202420-da9t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 19
+      }
     },
-    "dateStart": "2026-08-20T01:24:20.000Z",
-    "dateEnd": "2026-08-20T04:06:45.158Z",
-    "dateLabel": "8/19/2026, 8:24:20 PM - 8/19/2026, 11:06:45 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260819-202420-anyc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 35,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260819-202420-anyc",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 8,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260815-183925-fag1",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-20T01:24:20.000Z",
+      "dateEnd": "2026-08-20T04:06:45.158Z",
+      "dateLabel": "8/19/2026, 8:24:20 PM - 8/19/2026, 11:06:45 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260819-202420-anyc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 19
+      }
     },
-    "dateStart": "2026-08-15T23:39:25.000Z",
-    "dateEnd": "2026-08-16T00:44:51.000Z",
-    "dateLabel": "8/15/2026, 6:39:25 PM - 8/15/2026, 7:44:51 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260815-183925-fag1",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 17,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 14,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260815-183925-fag1",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260814-224623-6ru3",
-    "title": "Mystic Popstar",
-    "commanders": [
-      "Mystic Popstar"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-15T23:39:25.000Z",
+      "dateEnd": "2026-08-16T00:44:51.000Z",
+      "dateLabel": "8/15/2026, 6:39:25 PM - 8/15/2026, 7:44:51 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260815-183925-fag1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
     },
-    "dateStart": "2026-08-15T03:46:23.000Z",
-    "dateEnd": "2026-08-15T04:15:07.000Z",
-    "dateLabel": "8/14/2026, 10:46:23 PM - 8/14/2026, 11:15:07 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260814-224623-6ru3",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 61,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260814-224623-6ru3",
+      "title": "Mystic Popstar",
+      "commanders": [
+        "Mystic Popstar"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260813-201227-oulr",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-15T03:46:23.000Z",
+      "dateEnd": "2026-08-15T04:15:07.000Z",
+      "dateLabel": "8/14/2026, 10:46:23 PM - 8/14/2026, 11:15:07 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260814-224623-6ru3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 61,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 20
+      }
     },
-    "dateStart": "2026-08-14T01:12:27.000Z",
-    "dateEnd": "2026-08-14T02:14:53.000Z",
-    "dateLabel": "8/13/2026, 8:12:27 PM - 8/13/2026, 9:14:53 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260813-201227-oulr",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 37,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260813-201227-oulr",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 12
-    }
-  },
-  {
-    "id": "20260806-194404-3vlj",
-    "title": "Rojo Drakkon",
-    "commanders": [
-      "Rojo Drakkon"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-14T01:12:27.000Z",
+      "dateEnd": "2026-08-14T02:14:53.000Z",
+      "dateLabel": "8/13/2026, 8:12:27 PM - 8/13/2026, 9:14:53 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260813-201227-oulr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 37,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 12
+      }
     },
-    "dateStart": "2026-08-07T00:44:04.000Z",
-    "dateEnd": "2026-08-07T01:12:45.000Z",
-    "dateLabel": "8/6/2026, 7:44:04 PM - 8/6/2026, 8:12:45 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260806-194404-3vlj",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 27,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260806-194404-3vlj",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 8
-    }
-  },
-  {
-    "id": "20260801-142556-zm42",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "guild": {
-      "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
-      "name": "Operation Get Em",
-      "tag": "TEAM"
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-07T00:44:04.000Z",
+      "dateEnd": "2026-08-07T01:12:45.000Z",
+      "dateLabel": "8/6/2026, 7:44:04 PM - 8/6/2026, 8:12:45 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260806-194404-3vlj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 8
+      }
     },
-    "dateStart": "2026-08-01T19:25:56.000Z",
-    "dateEnd": "2026-08-01T20:26:34.000Z",
-    "dateLabel": "8/1/2026, 2:25:56 PM - 8/1/2026, 3:26:34 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260801-142556-zm42",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 31,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 8,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260801-142556-zm42",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 7
-    }
-  },
-  {
-    "id": "20260729-181316-7vfw",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-29T23:13:16.000Z",
-    "dateEnd": "2026-07-30T01:33:29.000Z",
-    "dateLabel": "7/29/2026, 6:13:16 PM - 7/29/2026, 8:33:29 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260729-181316-7vfw",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 21,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 16,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 9,
-          "color": "#3b82f6"
-        }
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-08-01T19:25:56.000Z",
+      "dateEnd": "2026-08-01T20:26:34.000Z",
+      "dateLabel": "8/1/2026, 2:25:56 PM - 8/1/2026, 3:26:34 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260801-142556-zm42",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
+      "id": "20260729-181316-7vfw",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260725-154333-zh9z",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-25T20:43:33.000Z",
-    "dateEnd": "2026-07-25T21:07:35.000Z",
-    "dateLabel": "7/25/2026, 3:43:33 PM - 7/25/2026, 4:07:35 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260725-154333-zh9z",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 16,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-29T23:13:16.000Z",
+      "dateEnd": "2026-07-30T01:33:29.000Z",
+      "dateLabel": "7/29/2026, 6:13:16 PM - 7/29/2026, 8:33:29 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260729-181316-7vfw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 9
+      }
+    },
+    {
+      "id": "20260725-154333-zh9z",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 6
-    }
-  },
-  {
-    "id": "20260725-001753-4m9k",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-25T05:17:53.000Z",
-    "dateEnd": "2026-07-25T05:47:41.000Z",
-    "dateLabel": "7/25/2026, 12:17:53 AM - 7/25/2026, 12:47:41 AM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260725-001753-4m9k",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 53,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-07-25T20:43:33.000Z",
+      "dateEnd": "2026-07-25T21:07:35.000Z",
+      "dateLabel": "7/25/2026, 3:43:33 PM - 7/25/2026, 4:07:35 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260725-154333-zh9z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 6
+      }
+    },
+    {
+      "id": "20260725-001753-4m9k",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 14
-    }
-  },
-  {
-    "id": "20260723-195929-5suh",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-24T00:59:29.000Z",
-    "dateEnd": "2026-07-24T01:41:40.000Z",
-    "dateLabel": "7/23/2026, 7:59:29 PM - 7/23/2026, 8:41:40 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260723-195929-5suh",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 47,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-25T05:17:53.000Z",
+      "dateEnd": "2026-07-25T05:47:41.000Z",
+      "dateLabel": "7/25/2026, 12:17:53 AM - 7/25/2026, 12:47:41 AM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260725-001753-4m9k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 53,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 14
+      }
+    },
+    {
+      "id": "20260723-195929-5suh",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 21
-    }
-  },
-  {
-    "id": "20260723-195929-1fbc",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-24T00:59:29.000Z",
-    "dateEnd": "2026-07-24T01:41:40.000Z",
-    "dateLabel": "7/23/2026, 7:59:29 PM - 7/23/2026, 8:41:40 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260723-195929-1fbc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 47,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-24T00:59:29.000Z",
+      "dateEnd": "2026-07-24T01:41:40.000Z",
+      "dateLabel": "7/23/2026, 7:59:29 PM - 7/23/2026, 8:41:40 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260723-195929-5suh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 47,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 21
+      }
+    },
+    {
+      "id": "20260723-195929-1fbc",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 21
-    }
-  },
-  {
-    "id": "20260718-140459-luqx",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-18T19:04:59.000Z",
-    "dateEnd": "2026-07-18T19:44:02.000Z",
-    "dateLabel": "7/18/2026, 2:04:59 PM - 7/18/2026, 2:44:02 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260718-140459-luqx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 25,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-24T00:59:29.000Z",
+      "dateEnd": "2026-07-24T01:41:40.000Z",
+      "dateLabel": "7/23/2026, 7:59:29 PM - 7/23/2026, 8:41:40 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260723-195929-1fbc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 47,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 21
+      }
+    },
+    {
+      "id": "20260718-140459-luqx",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260718-140459-8qu2",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-18T19:04:59.000Z",
-    "dateEnd": "2026-07-18T19:44:02.000Z",
-    "dateLabel": "7/18/2026, 2:04:59 PM - 7/18/2026, 2:44:02 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260718-140459-8qu2",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 25,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-18T19:04:59.000Z",
+      "dateEnd": "2026-07-18T19:44:02.000Z",
+      "dateLabel": "7/18/2026, 2:04:59 PM - 7/18/2026, 2:44:02 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260718-140459-luqx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 15
+      }
+    },
+    {
+      "id": "20260718-140459-8qu2",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260717-211729-jlj5",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-18T02:17:29.000Z",
-    "dateEnd": "2026-07-18T03:05:40.000Z",
-    "dateLabel": "7/17/2026, 9:17:29 PM - 7/17/2026, 10:05:40 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260717-211729-jlj5",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 34,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-07-18T19:04:59.000Z",
+      "dateEnd": "2026-07-18T19:44:02.000Z",
+      "dateLabel": "7/18/2026, 2:04:59 PM - 7/18/2026, 2:44:02 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260718-140459-8qu2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 15
+      }
+    },
+    {
+      "id": "20260717-211729-jlj5",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 18
-    }
-  },
-  {
-    "id": "20260716-182504-9bf0",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-16T23:25:04.000Z",
-    "dateEnd": "2026-07-17T01:36:31.000Z",
-    "dateLabel": "7/16/2026, 6:25:04 PM - 7/16/2026, 8:36:31 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260716-182504-9bf0",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 30,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 9,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-07-18T02:17:29.000Z",
+      "dateEnd": "2026-07-18T03:05:40.000Z",
+      "dateLabel": "7/17/2026, 9:17:29 PM - 7/17/2026, 10:05:40 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260717-211729-jlj5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 34,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260716-182504-9bf0",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260716-182504-kikl",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-16T23:25:04.000Z",
-    "dateEnd": "2026-07-17T01:36:31.000Z",
-    "dateLabel": "7/16/2026, 6:25:04 PM - 7/16/2026, 8:36:31 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260716-182504-kikl",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 30,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 9,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-07-16T23:25:04.000Z",
+      "dateEnd": "2026-07-17T01:36:31.000Z",
+      "dateLabel": "7/16/2026, 6:25:04 PM - 7/16/2026, 8:36:31 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260716-182504-9bf0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 9
+      }
+    },
+    {
+      "id": "20260716-182504-kikl",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260711-140653-eclg",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-11T19:06:53.000Z",
-    "dateEnd": "2026-07-11T19:26:48.000Z",
-    "dateLabel": "7/11/2026, 2:06:53 PM - 7/11/2026, 2:26:48 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260711-140653-eclg",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 21,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 18,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-16T23:25:04.000Z",
+      "dateEnd": "2026-07-17T01:36:31.000Z",
+      "dateLabel": "7/16/2026, 6:25:04 PM - 7/16/2026, 8:36:31 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260716-182504-kikl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 9
+      }
+    },
+    {
+      "id": "20260711-140653-eclg",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 6
-    }
-  },
-  {
-    "id": "20260704-140241-g79u",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-04T19:02:41.000Z",
-    "dateEnd": "2026-07-04T19:52:31.000Z",
-    "dateLabel": "7/4/2026, 2:02:41 PM - 7/4/2026, 2:52:31 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260704-140241-g79u",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 11,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-11T19:06:53.000Z",
+      "dateEnd": "2026-07-11T19:26:48.000Z",
+      "dateLabel": "7/11/2026, 2:06:53 PM - 7/11/2026, 2:26:48 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260711-140653-eclg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 6
+      }
+    },
+    {
+      "id": "20260704-140241-g79u",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 7
-    }
-  },
-  {
-    "id": "20260704-140241-1s9m",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-04T19:02:41.000Z",
-    "dateEnd": "2026-07-04T19:52:31.000Z",
-    "dateLabel": "7/4/2026, 2:02:41 PM - 7/4/2026, 2:52:31 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260704-140241-1s9m",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 11,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-04T19:02:41.000Z",
+      "dateEnd": "2026-07-04T19:52:31.000Z",
+      "dateLabel": "7/4/2026, 2:02:41 PM - 7/4/2026, 2:52:31 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260704-140241-g79u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 7
+      }
+    },
+    {
+      "id": "20260704-140241-1s9m",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 7
-    }
-  },
-  {
-    "id": "20260704-140241-e4dz",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-04T19:02:41.000Z",
-    "dateEnd": "2026-07-04T19:52:31.000Z",
-    "dateLabel": "7/4/2026, 2:02:41 PM - 7/4/2026, 2:52:31 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260704-140241-e4dz",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 11,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 6,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-04T19:02:41.000Z",
+      "dateEnd": "2026-07-04T19:52:31.000Z",
+      "dateLabel": "7/4/2026, 2:02:41 PM - 7/4/2026, 2:52:31 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260704-140241-1s9m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 7
+      }
+    },
+    {
+      "id": "20260704-140241-e4dz",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 8
-    }
-  },
-  {
-    "id": "20260703-211408-aolv",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-07-04T02:14:08.000Z",
-    "dateEnd": "2026-07-04T02:50:42.000Z",
-    "dateLabel": "7/3/2026, 9:14:08 PM - 7/3/2026, 9:50:42 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260703-211408-aolv",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 41,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-04T19:02:41.000Z",
+      "dateEnd": "2026-07-04T19:52:31.000Z",
+      "dateLabel": "7/4/2026, 2:02:41 PM - 7/4/2026, 2:52:31 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260704-140241-e4dz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 8
+      }
+    },
+    {
+      "id": "20260703-211408-aolv",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260630-193532-n88l",
-    "title": "Shae Pell Shimmer",
-    "commanders": [
-      "Shae Pell Shimmer"
-    ],
-    "dateStart": "2026-07-01T00:35:32.000Z",
-    "dateEnd": "2026-07-01T01:24:09.000Z",
-    "dateLabel": "6/30/2026, 7:35:32 PM - 6/30/2026, 8:24:09 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260630-193532-n88l",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 39,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-04T02:14:08.000Z",
+      "dateEnd": "2026-07-04T02:50:42.000Z",
+      "dateLabel": "7/3/2026, 9:14:08 PM - 7/3/2026, 9:50:42 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260703-211408-aolv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 41,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260630-193532-n88l",
+      "title": "Shae Pell Shimmer",
+      "commanders": [
+        "Shae Pell Shimmer"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260627-140005-szvc",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-06-27T19:00:05.000Z",
-    "dateEnd": "2026-06-27T19:43:50.000Z",
-    "dateLabel": "6/27/2026, 2:00:05 PM - 6/27/2026, 2:43:50 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260627-140005-szvc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 27,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 10,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-01T00:35:32.000Z",
+      "dateEnd": "2026-07-01T01:24:09.000Z",
+      "dateLabel": "6/30/2026, 7:35:32 PM - 6/30/2026, 8:24:09 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260630-193532-n88l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 39,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260627-140005-szvc",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 4
-    }
-  },
-  {
-    "id": "20260619-222302-xm51",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-06-20T03:23:02.000Z",
-    "dateEnd": "2026-06-20T04:12:48.000Z",
-    "dateLabel": "6/19/2026, 10:23:02 PM - 6/19/2026, 11:12:48 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260619-222302-xm51",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 28,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 14,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-06-27T19:00:05.000Z",
+      "dateEnd": "2026-06-27T19:43:50.000Z",
+      "dateLabel": "6/27/2026, 2:00:05 PM - 6/27/2026, 2:43:50 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260627-140005-szvc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 4
+      }
+    },
+    {
+      "id": "20260619-222302-xm51",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 26
-    }
-  },
-  {
-    "id": "20260619-222826-y4k4",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-06-20T03:28:26.000Z",
-    "dateEnd": "2026-06-20T04:12:48.000Z",
-    "dateLabel": "6/19/2026, 10:28:26 PM - 6/19/2026, 11:12:48 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260619-222826-y4k4",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 28,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 14,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-06-20T03:23:02.000Z",
+      "dateEnd": "2026-06-20T04:12:48.000Z",
+      "dateLabel": "6/19/2026, 10:23:02 PM - 6/19/2026, 11:12:48 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260619-222302-xm51",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 26
+      }
+    },
+    {
+      "id": "20260619-222826-y4k4",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 26
-    }
-  },
-  {
-    "id": "20260606-142537-rso2",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-06-06T19:25:37.000Z",
-    "dateEnd": "2026-06-06T20:15:01.000Z",
-    "dateLabel": "6/6/2026, 2:25:37 PM - 6/6/2026, 3:15:01 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260606-142537-rso2",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 24,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-20T03:28:26.000Z",
+      "dateEnd": "2026-06-20T04:12:48.000Z",
+      "dateLabel": "6/19/2026, 10:28:26 PM - 6/19/2026, 11:12:48 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260619-222826-y4k4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 26
+      }
+    },
+    {
+      "id": "20260606-142537-rso2",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 5
-    }
-  },
-  {
-    "id": "20260606-142537-8aqq",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-06-06T19:25:37.000Z",
-    "dateEnd": "2026-06-06T20:15:01.000Z",
-    "dateLabel": "6/6/2026, 2:25:37 PM - 6/6/2026, 3:15:01 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260606-142537-8aqq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 24,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-06T19:25:37.000Z",
+      "dateEnd": "2026-06-06T20:15:01.000Z",
+      "dateLabel": "6/6/2026, 2:25:37 PM - 6/6/2026, 3:15:01 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260606-142537-rso2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 5
+      }
+    },
+    {
+      "id": "20260606-142537-8aqq",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 5
-    }
-  },
-  {
-    "id": "20260530-141230-afff",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-05-30T19:12:30.000Z",
-    "dateEnd": "2026-05-30T19:46:47.000Z",
-    "dateLabel": "5/30/2026, 2:12:30 PM - 5/30/2026, 2:46:47 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260530-141230-afff",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 11,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-06-06T19:25:37.000Z",
+      "dateEnd": "2026-06-06T20:15:01.000Z",
+      "dateLabel": "6/6/2026, 2:25:37 PM - 6/6/2026, 3:15:01 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260606-142537-8aqq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 5
+      }
+    },
+    {
+      "id": "20260530-141230-afff",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 5
-    }
-  },
-  {
-    "id": "20260502-134754-71k3",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-05-02T18:47:54.000Z",
-    "dateEnd": "2026-05-02T20:49:46.000Z",
-    "dateLabel": "5/2/2026, 1:47:54 PM - 5/2/2026, 3:49:46 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260502-134754-71k3",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 24,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 2,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-05-30T19:12:30.000Z",
+      "dateEnd": "2026-05-30T19:46:47.000Z",
+      "dateLabel": "5/30/2026, 2:12:30 PM - 5/30/2026, 2:46:47 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260530-141230-afff",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 5
+      }
+    },
+    {
+      "id": "20260502-134754-71k3",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260502-144908-vs7z",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-05-02T19:49:08.000Z",
-    "dateEnd": "2026-05-02T20:41:30.000Z",
-    "dateLabel": "5/2/2026, 2:49:08 PM - 5/2/2026, 3:41:30 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260502-144908-vs7z",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 24,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-05-02T18:47:54.000Z",
+      "dateEnd": "2026-05-02T20:49:46.000Z",
+      "dateLabel": "5/2/2026, 1:47:54 PM - 5/2/2026, 3:49:46 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260502-134754-71k3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
+    },
+    {
+      "id": "20260502-144908-vs7z",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260502-145010-a6bn",
-    "title": "Jade Hunteress",
-    "commanders": [
-      "Jade Hunteress"
-    ],
-    "dateStart": "2026-05-02T19:50:10.000Z",
-    "dateEnd": "2026-05-02T20:49:46.000Z",
-    "dateLabel": "5/2/2026, 2:50:10 PM - 5/2/2026, 3:49:46 PM",
-    "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260502-145010-a6bn",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 24,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 5,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-05-02T19:49:08.000Z",
+      "dateEnd": "2026-05-02T20:41:30.000Z",
+      "dateLabel": "5/2/2026, 2:49:08 PM - 5/2/2026, 3:41:30 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260502-144908-vs7z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
+    },
+    {
+      "id": "20260502-145010-a6bn",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 9
+      "dateStart": "2026-05-02T19:50:10.000Z",
+      "dateEnd": "2026-05-02T20:49:46.000Z",
+      "dateLabel": "5/2/2026, 2:50:10 PM - 5/2/2026, 3:49:46 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260502-145010-a6bn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 9
+      }
     }
-  }
-]
+  ]
+}
