@@ -2,7 +2,36 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260921-193224-j3cp",
+      "title": "Mystic Vaelith",
+      "commanders": [
+        "Mystic Vaelith"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-22T00:32:24.000Z",
+      "dateEnd": "2026-09-22T01:02:00.131Z",
+      "dateLabel": "9/21/2026, 7:32:24 PM - 9/21/2026, 8:02:00 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260921-193224-j3cp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20260920-170330-h2mu",
       "title": "Rose Of Aeons",
