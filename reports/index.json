@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-220235-32uu",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-26T03:02:35.000Z",
+      "dateEnd": "2026-09-26T04:24:01.092Z",
+      "dateLabel": "9/25/2026, 10:02:35 PM - 9/25/2026, 11:24:01 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20260925-220235-32uu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260921-193224-j3cp",
       "title": "Mystic Vaelith",
       "commanders": [
