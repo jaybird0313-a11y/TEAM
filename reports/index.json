@@ -3,7 +3,40 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.2"
+  },
   "entries": [
+    {
+      "id": "20261009-220949-cufv",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-10-10T03:09:49.000Z",
+      "dateEnd": "2026-10-10T04:01:18.355Z",
+      "dateLabel": "10/9/2026, 10:09:49 PM - 10/9/2026, 11:01:18 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20261009-220949-cufv",
+      "publishedBy": "jaybird0313-a11y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261001-201818-kee7",
       "title": "Jade Hunteress",
