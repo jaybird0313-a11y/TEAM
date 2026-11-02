@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261101-180812-qt49",
+      "title": "Rose Of Aeons",
+      "commanders": [
+        "Rose Of Aeons"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-11-02T00:08:12.000Z",
+      "dateEnd": "2026-11-02T00:49:26.956Z",
+      "dateLabel": "11/1/2026, 6:08:12 PM - 11/1/2026, 6:49:26 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20261101-180812-qt49",
+      "publishedBy": "jaybird0313-a11y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261030-215505-a83q",
       "title": "Jade Hunteress",
       "commanders": [
