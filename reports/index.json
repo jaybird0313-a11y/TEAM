@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261111-211626-a9vw",
+      "title": "Rojo Drakkon",
+      "commanders": [
+        "Rojo Drakkon"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-11-12T03:16:26.000Z",
+      "dateEnd": "2026-11-12T03:41:11.556Z",
+      "dateLabel": "11/11/2026, 9:16:26 PM - 11/11/2026, 9:41:11 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20261111-211626-a9vw",
+      "publishedBy": "jaybird0313-a11y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 58,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20261108-201610-dcnx",
       "title": "Jade Hunteress",
       "commanders": [
