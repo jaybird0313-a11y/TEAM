@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261113-214401-7rce",
+      "title": "Jade Hunteress",
+      "commanders": [
+        "Jade Hunteress"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-11-14T03:44:01.000Z",
+      "dateEnd": "2026-11-14T04:14:37.657Z",
+      "dateLabel": "11/13/2026, 9:44:01 PM - 11/13/2026, 10:14:37 PM",
+      "url": "https://jaybird0313-a11y.github.io/TEAM/?report=20261113-214401-7rce",
+      "publishedBy": "jaybird0313-a11y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 44,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 25
+      }
+    },
     {
       "id": "20261111-211626-a9vw",
       "title": "Rojo Drakkon",
